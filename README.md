@@ -39,4 +39,11 @@ Click "Continue Workout" to add an exercise.
 
 ![continue workout](images/continueworkout.png)
 
+![data](images/data.png)
+
+To keep track of your exercise trends, click "Dashboard" in your navigation bar.
+![dashboard](images/dashboard.png)
+
+Link to [Fitness Tracker App](https://azs6189-fitness-tracker.herokuapp.com/?id=61834056ee240f001670bdc4)
+
 Fill out the question prompts to add your exercise.
